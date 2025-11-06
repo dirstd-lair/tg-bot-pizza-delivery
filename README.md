@@ -45,5 +45,5 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/[yourname]/tg-bot-pizza-delivery.git
+git clone https://github.com/dirstd-lair/tg-bot-pizza-delivery.git
 cd tg-bot-pizza-delivery
